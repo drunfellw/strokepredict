@@ -43,6 +43,6 @@ Stroke is a medical emergency. A stroke occurs when blood flow to a part of your
 * Random Forest Classifier
 * SVC
 
-* İsmail Uzun
 
 ###### Thank you for looking.
+###### İsmail Uzun
