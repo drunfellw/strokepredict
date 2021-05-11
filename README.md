@@ -36,5 +36,13 @@ Stroke is a medical emergency. A stroke occurs when blood flow to a part of your
 * stroke: 1 if the patient had a stroke or 0 if not
 * Note: "Unknown" in smoking_status means that the information is unavailable for this patient
 
+#### Models:
+
+* Logistic Regression
+* KNN
+* Random Forest Classifier
+* SVC
+
+* İsmail Uzun
 
 ###### Thank you for looking.
